@@ -65,5 +65,5 @@ function updateScore(result) {
         computerScore++;
     }
 
-    scoreEl.textContent = `Score: Player ${playerScore} - ${computerScore} Computer`;
+    scoreEl.textContent = `Score: Player ${playerScore} - ${computerScore} Jazz`;
 }
